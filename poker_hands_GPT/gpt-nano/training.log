@@ -1,0 +1,23 @@
+2024-05-14 09:56:01,696 INFO:Epoch 1/10, Train Loss: 1.9511, Eval Loss: 1.9459
+2024-05-14 09:56:01,700 INFO:Saved new best model based on validation loss.
+2024-05-14 10:05:12,735 INFO:Epoch 2/10, Train Loss: 1.9475, Eval Loss: 1.9459
+2024-05-14 10:14:22,323 INFO:Epoch 3/10, Train Loss: 1.9470, Eval Loss: 1.9459
+2024-05-14 10:14:22,326 INFO:Saved new best model based on validation loss.
+2024-05-14 10:23:32,077 INFO:Epoch 4/10, Train Loss: 1.9467, Eval Loss: 1.9458
+2024-05-14 10:23:32,081 INFO:Saved new best model based on validation loss.
+2024-05-14 10:32:42,453 INFO:Epoch 5/10, Train Loss: 1.9464, Eval Loss: 1.9458
+2024-05-14 10:32:42,951 INFO:Epoch 5/10, Classification Report:
+{'FLUSH': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 53286.0}, 'HIGH_CARD': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 99563.0}, 'HUGE_HANDS': {'precision': 0.09473241193756153, 'recall': 0.25640243282276604, 'f1-score': 0.13834924816156294, 'support': 49161.0}, 'ONE_PAIR': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 99516.0}, 'STRAIGHT': {'precision': 0.15409191843804995, 'recall': 0.8221088853385768, 'f1-score': 0.2595374533942199, 'support': 81370.0}, 'THREE_OF_A_KIND': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 85485.0}, 'TWO_PAIR': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 98802.0}, 'accuracy': 0.14016640132020883, 'macro avg': {'precision': 0.035546332910801635, 'recall': 0.1540730454516204, 'f1-score': 0.05684095736511184, 'support': 567183.0}, 'weighted avg': {'precision': 0.030317550960742103, 'recall': 0.14016640132020883, 'f1-score': 0.04922564669878729, 'support': 567183.0}}
+2024-05-14 10:32:42,956 INFO:Saved new best model based on validation loss.
+2024-05-14 10:41:53,692 INFO:Epoch 6/10, Train Loss: 1.9459, Eval Loss: 1.9447
+2024-05-14 10:41:53,695 INFO:Saved new best model based on validation loss.
+2024-05-14 10:51:03,983 INFO:Epoch 7/10, Train Loss: 1.9435, Eval Loss: 1.9412
+2024-05-14 10:51:03,986 INFO:Saved new best model based on validation loss.
+2024-05-14 11:00:14,061 INFO:Epoch 8/10, Train Loss: 1.9424, Eval Loss: 1.9408
+2024-05-14 11:00:14,065 INFO:Saved new best model based on validation loss.
+2024-05-14 11:09:23,893 INFO:Epoch 9/10, Train Loss: 1.9420, Eval Loss: 1.9407
+2024-05-14 11:09:23,896 INFO:Saved new best model based on validation loss.
+2024-05-14 11:18:34,139 INFO:Epoch 10/10, Train Loss: 1.9419, Eval Loss: 1.9406
+2024-05-14 11:18:34,666 INFO:Epoch 10/10, Classification Report:
+{'FLUSH': {'precision': 0.08850548958099932, 'recall': 0.007412828885636002, 'f1-score': 0.013679890560875513, 'support': 53286.0}, 'HIGH_CARD': {'precision': 0.18907323084321417, 'recall': 0.505468899089019, 'f1-score': 0.2752047247323882, 'support': 99563.0}, 'HUGE_HANDS': {'precision': 0.3333333333333333, 'recall': 2.034132747503102e-05, 'f1-score': 4.068017248393133e-05, 'support': 49161.0}, 'ONE_PAIR': {'precision': 0.0, 'recall': 0.0, 'f1-score': 0.0, 'support': 99516.0}, 'STRAIGHT': {'precision': 0.17711527345529435, 'recall': 0.568612510753349, 'f1-score': 0.2700984527190522, 'support': 81370.0}, 'THREE_OF_A_KIND': {'precision': 0.13602973714488006, 'recall': 0.017979762531438265, 'f1-score': 0.03176144817325178, 'support': 85485.0}, 'TWO_PAIR': {'precision': 0.16693733083489487, 'recall': 0.04057610169834619, 'f1-score': 0.065284121904948, 'support': 98802.0}, 'accuracy': 0.18078115881470355, 'macro avg': {'precision': 0.15585634217037372, 'recall': 0.1628672063264662, 'f1-score': 0.09372418832328566, 'support': 567183.0}, 'weighted avg': {'precision': 0.1453885529754818, 'recall': 0.18078115881470355, 'f1-score': 0.10450664925114019, 'support': 567183.0}}
+2024-05-14 11:18:34,670 INFO:Saved new best model based on validation loss.

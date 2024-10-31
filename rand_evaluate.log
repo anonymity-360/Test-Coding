@@ -1,0 +1,20 @@
+2024-07-01 17:52:52,202 INFO:Accuracy: 0.013681800979852133
+Perplexity: 222723167470533.66
+BLEU Score: 0.0010081993366764708
+Legal Rate of Predicted Events: 0.1798612751299186
+Classification Report:
+                 precision    recall  f1-score   support
+
+          <eos>       0.00      0.00      0.00   1000000
+           FOLD       0.00      0.00      0.00   2792190
+     CHECK_CALL       0.00      0.00      0.00   1973154
+ RAISE_HALF_POT       0.00      0.00      0.00     25402
+      RAISE_POT       0.01      0.84      0.03    144274
+         ALL_IN       0.00      0.00      0.00    625198
+DEAL_THREECARDS       0.87      0.01      0.02   1000000
+   DEAL_ONECARD       0.00      0.00      0.00   2000000
+
+      micro avg       0.01      0.01      0.01   9560218
+      macro avg       0.11      0.11      0.01   9560218
+   weighted avg       0.09      0.01      0.00   9560218
+
